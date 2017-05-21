@@ -1,0 +1,10 @@
+.ticket-price {
+  display: none;
+}
+
+body {
+  color: purple;
+  background-color: lightgreen;
+  font-style: italic;
+  font-family: cursive;
+}
